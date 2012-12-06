@@ -4,7 +4,7 @@ Trying to bring cohesion between your SAAS accounts.
 
 ## Briefly
 
-For now, Cohesr will focus on Wordpress.com data interfacing.
+For now, Cohesr will focus on Wordpress custom data interfacing.
 
 ## License
 
